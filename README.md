@@ -1,68 +1,53 @@
-# 🍱 Omnifood - Responsive Meal Delivery Website
+# Omnifood – Responsive Landing Page
 
-[![Responsive](https://img.shields.io/badge/Responsive-Design-00c853?style=flat&logo=css3)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-Modern-1572B6?logo=css3&logoColor=white)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+**Omnifood** is a fully responsive, modern landing page for a fictional AI-powered food delivery service. The project showcases clean HTML5 and CSS3 code, semantic structure, accessibility practices, and mobile-first responsive design.
 
-> **Omnifood** is a fully responsive and elegant landing page for a fictional AI-powered meal delivery service. Built with HTML5 and modern CSS3, this project demonstrates clean code, UX-friendly design, and best practices in front-end development.
+## Live Demo
 
----
+Production version is available at:  
+**[https://faresrashidy.github.io/Omnifood/](https://faresrashidy.github.io/Omnifood/)**
 
-## 🚀 Live Demo
+## Project Overview
 
-🔗 [**View Live on GitHub Pages**](https://faresrashidy.github.io/Omnifood/)
+This landing page includes:
 
----
+- Responsive layout for all devices (mobile, tablet, desktop)
+- Sticky navigation and smooth scrolling
+- Structured HTML5 with semantic tags
+- Modern CSS using Flexbox and CSS Grid
+- Visual hierarchy and consistent typography
+- Custom fonts and icons
+- Accessible and scalable design patterns
 
-## ✨ Features
+## Technologies Used
 
-- ✅ Mobile-first responsive layout
-- ✅ Sticky navigation & smooth scroll
-- ✅ Semantic HTML5 for accessibility
-- ✅ Modern CSS: Flexbox, Grid, custom properties
-- ✅ Custom fonts & icons
-- ✅ Clean, scalable structure
-- ✅ Ready for deployment
+- HTML5
+- CSS3
+- Google Fonts
+- Font Awesome
+- Git / GitHub
 
----
+## Deployment
 
-## 📸 Screenshots
+This project is deployed using **GitHub Pages** directly from the `main` branch.
 
-### 💻 Desktop View
+To deploy:
 
-![Desktop Screenshot](./img/screenshot-desktop.png)
+1. Push the code to a public GitHub repository.
+2. Navigate to **Settings > Pages**.
+3. Set the source to the `main` branch.
+4. Your project will be hosted at `https://your-username.github.io/repository-name/`.
 
-### 📱 Mobile View
-
-![Mobile Screenshot](./img/screenshot-mobile.png)
-
----
-
-## 🛠️ Technologies Used
-
-- **HTML5**
-- **CSS3** (Flexbox, Grid, Media Queries)
-- **Google Fonts**
-- **Font Awesome**
-- _(Optional JavaScript for mobile nav)_
-
----
-
-## 🧑‍💻 Author
+## Author
 
 **Fares Rashidy**  
-🔗 [@FaresRashidy on GitHub](https://github.com/FaresRashidy)
+[GitHub Profile](https://github.com/FaresRashidy)
 
----
+## License
 
-## 📝 License
+This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial projects.
 
-Licensed under the [MIT License](LICENSE).
+## Credits
 
----
-
-## 📌 Notes
-
-- This project was built for educational and portfolio purposes.
-- Inspired by Jonas Schmedtmann’s “Build Responsive Websites with HTML and CSS” course.
+Design inspired by the course:  
+**Build Responsive Real-World Websites with HTML and CSS** by Jonas Schmedtmann (Udemy)
