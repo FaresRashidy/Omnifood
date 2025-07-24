@@ -1,23 +1,26 @@
 # Omnifood – Responsive Landing Page
 
-**Omnifood** is a fully responsive, modern landing page for a fictional AI-powered food delivery service. The project showcases clean HTML5 and CSS3 code, semantic structure, accessibility practices, and mobile-first responsive design.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat&logo=netlify&logoColor=white)](https://faresrashidy.netlify.app/)
+[![Responsive](https://img.shields.io/badge/Responsive%20Design-Fully%20Responsive-00c853?style=flat&logo=css3)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-Flexbox%20%26%20Grid-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+
+**Omnifood** is a responsive, modern landing page built for a fictional AI-powered food delivery service. The project focuses on clean semantic HTML5, modular CSS3, accessibility, and best front-end development practices.
 
 ## Live Demo
 
-Production version is available at:  
-**[https://faresrashidy.github.io/Omnifood/](https://faresrashidy.github.io/Omnifood/)**
+Production build is live at:  
+**[https://faresrashidy.netlify.app/](https://faresrashidy.netlify.app/)**
 
-## Project Overview
+## Features
 
-This landing page includes:
-
-- Responsive layout for all devices (mobile, tablet, desktop)
-- Sticky navigation and smooth scrolling
-- Structured HTML5 with semantic tags
-- Modern CSS using Flexbox and CSS Grid
-- Visual hierarchy and consistent typography
-- Custom fonts and icons
-- Accessible and scalable design patterns
+- Mobile-first responsive layout
+- Sticky navigation with smooth scrolling
+- Semantic and accessible HTML5
+- CSS architecture using Flexbox, Grid, and custom properties
+- Reusable components and sections
+- Scalable and performance-optimized structure
 
 ## Technologies Used
 
@@ -25,29 +28,37 @@ This landing page includes:
 - CSS3
 - Google Fonts
 - Font Awesome
-- Git / GitHub
+- Git & GitHub
 
-## Deployment
+## Hosting & Production (Netlify)
 
-This project is deployed using **GitHub Pages** directly from the `main` branch.
+The project is deployed using **Netlify**, a modern platform for automating front-end deployments.
 
-To deploy:
+### Netlify Highlights:
 
-1. Push the code to a public GitHub repository.
-2. Navigate to **Settings > Pages**.
-3. Set the source to the `main` branch.
-4. Your project will be hosted at `https://your-username.github.io/repository-name/`.
+- Continuous deployment from GitHub
+- Fast global CDN delivery
+- HTTPS, custom domains, and form handling out-of-the-box
+- Clean developer experience with zero backend setup
+
+### To deploy your own:
+
+1. Push the project to a public GitHub repository
+2. Sign in at [https://netlify.com](https://netlify.com)
+3. Connect your GitHub repo and select the project
+4. Netlify auto-builds and hosts your site
 
 ## Author
 
 **Fares Rashidy**  
-[GitHub Profile](https://github.com/FaresRashidy)
+GitHub: [https://github.com/FaresRashidy](https://github.com/FaresRashidy)
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial projects.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Credits
+## Acknowledgments
 
-Design inspired by the course:  
-**Build Responsive Real-World Websites with HTML and CSS** by Jonas Schmedtmann (Udemy)
+Inspired by:  
+**"Build Responsive Real-World Websites with HTML and CSS"**  
+by Jonas Schmedtmann – [View on Udemy](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
