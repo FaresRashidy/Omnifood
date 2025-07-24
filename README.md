@@ -1,17 +1,29 @@
 # 🍱 Omnifood - Responsive Meal Delivery Website
 
-[![Responsive Design](https://img.shields.io/badge/Responsive-Yes-00c853?style=flat&logo=css3)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-Implemented-E34F26?logo=html5&logoColor=white)](#)
+[![Responsive](https://img.shields.io/badge/Responsive-Design-00c853?style=flat&logo=css3)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-Modern-1572B6?logo=css3&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
-> **Omnifood** is a fully responsive landing page for a fictional AI-powered meal delivery startup. Built with modern HTML5 & CSS3, this project demonstrates strong front-end development, UX design, and mobile-first responsiveness.
+> **Omnifood** is a fully responsive and elegant landing page for a fictional AI-powered meal delivery service. Built with HTML5 and modern CSS3, this project demonstrates clean code, UX-friendly design, and best practices in front-end development.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **View Live**: [https://faresrashidy.github.io/Omnifood/](https://faresrashidy.github.io/Omnifood/)
+🔗 [**View Live on GitHub Pages**](https://faresrashidy.github.io/Omnifood/)
+
+---
+
+## ✨ Features
+
+- ✅ Mobile-first responsive layout
+- ✅ Sticky navigation & smooth scroll
+- ✅ Semantic HTML5 for accessibility
+- ✅ Modern CSS: Flexbox, Grid, custom properties
+- ✅ Custom fonts & icons
+- ✅ Clean, scalable structure
+- ✅ Ready for deployment
 
 ---
 
@@ -27,26 +39,30 @@
 
 ---
 
-## ✨ Features
-
-- ✅ Mobile-first responsive layout
-- ✅ Sticky navigation
-- ✅ Hero section with call-to-action
-- ✅ Testimonials and pricing cards
-- ✅ Footer with grid layout
-- ✅ Custom Google Fonts and icons
-- ✅ Accessible and semantic HTML5
-
----
-
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3** (Flexbox, Grid, Media Queries)
-- **Font Awesome** for icons
 - **Google Fonts**
-- **JavaScript** (optional mobile nav toggle)
+- **Font Awesome**
+- _(Optional JavaScript for mobile nav)_
 
 ---
 
-## 📁 Folder Structure
+## 🧑‍💻 Author
+
+**Fares Rashidy**  
+🔗 [@FaresRashidy on GitHub](https://github.com/FaresRashidy)
+
+---
+
+## 📝 License
+
+Licensed under the [MIT License](LICENSE).
+
+---
+
+## 📌 Notes
+
+- This project was built for educational and portfolio purposes.
+- Inspired by Jonas Schmedtmann’s “Build Responsive Websites with HTML and CSS” course.
