@@ -11,7 +11,7 @@
 ## Live Demo
 
 Production build is live at:  
-**[https://faresrashidy.netlify.app/](https://faresrashidy.netlify.app/)**
+**[https://omnifood-fares.netlify.app/](https://omnifood-fares.netlify.app/)**
 
 ## Features
 
